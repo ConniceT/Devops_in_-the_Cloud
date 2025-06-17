@@ -1,0 +1,4 @@
+pandas>=1.5.0
+numpy>=1.21.0
+requests>=2.26.0
+zoneinfo>=2.1.0
